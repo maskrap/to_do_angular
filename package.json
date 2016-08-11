@@ -34,5 +34,16 @@
     "lite-server": "^2.1.0",
     "typescript": "^1.8.2",
     "typings": "^0.6.8"
-  }
+  },
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maskrap/to_do_angular.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/maskrap/to_do_angular/issues"
+  },
+  "homepage": "https://github.com/maskrap/to_do_angular#readme",
+  "description": ""
 }

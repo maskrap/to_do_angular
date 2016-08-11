@@ -9,4 +9,7 @@ import { Task } from './task.model';
 
 export class TaskComponent {
   public task: Task;
+  toggleDone(setCompleteness: boolean){
+    this.task.done = setCompleteness;
+  }
 }
